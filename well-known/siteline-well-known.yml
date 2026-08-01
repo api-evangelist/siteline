@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of the /.well-known/ discovery surface for the apis.yml base host
+description: >-
+  Results of probing the /.well-known/ discovery surface for Siteline's primary
+  host. Status is the HTTP code observed at fetch time. Siteline publishes no
+  /.well-known/ discovery documents and no public API surface — every probed path
+  returned 404. A published llms.txt exists at the site root (see llms/), but no
+  security.txt, OpenID/OAuth metadata, api-catalog, or ai-plugin.json.
+hosts:
+- host: https://siteline.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404

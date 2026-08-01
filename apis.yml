@@ -1,7 +1,31 @@
 aid: siteline
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/siteline.png
 name: Siteline
-description: Siteline is a company surfaced as a portfolio company of menlo-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Siteline is billing and accounts receivable software built specifically for
+  commercial subcontractors (trade contractors). It centralizes pay applications
+  (including AIA G702/G703 progress billing), lien waivers, lien rights,
+  compliance documents, change orders, collections, and A/R reporting in one
+  workflow, replacing the spreadsheets, PDFs, and GC payment-portal logins that
+  AP/AR teams juggle every month. Siteline integrates with construction
+  accounting systems (Sage, Foundation, Viewpoint/Vista, Spectrum, QuickBooks,
+  Acumatica, Sage Intacct, NetSuite, CMiC, and others) and with GC payment
+  portals (Textura, GCPay, Procore Pay) so billing data flows without double
+  entry. Founded in 2019 by Claire Wilson and Gloria Lin, backed by Menlo
+  Ventures and First Round Capital; subcontractors have billed over $10B across
+  200,000+ projects on the platform. Siteline publishes no public developer API
+  — integrations are managed connections rather than a self-serve API.
 url: https://raw.githubusercontent.com/api-evangelist/siteline/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +35,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Construction
+- Billing
+- Payments
+- Accounts Receivable
+- Subcontractors
+- Lien Waivers
+- Compliance
+- Construction Fintech
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +56,28 @@ maintainers:
 common:
 - type: Website
   url: https://siteline.com
+- type: Blog
+  url: https://www.siteline.com/blog
+- type: Pricing
+  url: https://www.siteline.com/pricing
+- type: SignUp
+  url: https://app.siteline.com/
+- type: TermsOfService
+  url: https://www.siteline.com/terms
+- type: PrivacyPolicy
+  url: https://www.siteline.com/privacy
+- type: StatusPage
+  url: https://status.siteline.com
+- type: LLMsTxt
+  url: llms/siteline-llms.txt
+- type: WellKnown
+  url: well-known/siteline-well-known.yml
+- type: Lifecycle
+  url: lifecycle/siteline-lifecycle.yml
+- type: DomainSecurity
+  url: security/siteline-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

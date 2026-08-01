@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: searched
+source: https://status.siteline.com + https://www.siteline.com/terms + live probes
+api: null
+note: >-
+  Siteline exposes no public developer API. This lifecycle record covers the
+  hosted SaaS product (app.siteline.com). Values below reflect the product's
+  public operational surface, not a versioned API contract.
+versioning:
+  scheme: none-public
+  mechanism: null
+  notes: >-
+    No public, versioned API is published; Siteline is a hosted product with
+    managed accounting-system and GC-portal integrations rather than a
+    developer-facing API.
+status_page:
+  url: https://status.siteline.com
+  verified_status: 200
+  notes: Public product status page.
+deprecation:
+  policy_documented: false
+  sunset_header: not applicable
+  deprecated_operations: []
+sla:
+  documented: >-
+    No public numeric uptime SLA. Availability/commitments are governed by the
+    Terms of Service (https://www.siteline.com/terms) and enterprise agreements.
+notes:
+- No public API, developer portal, API reference, or webhook surface was found.
+- No dated API changelog / release-notes page is published.

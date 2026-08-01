@@ -1,0 +1,83 @@
+# Siteline
+
+> Siteline is billing and accounts receivable software built specifically for commercial subcontractors (trade contractors). It replaces the spreadsheets, PDFs, and GC payment portal logins that AP/AR teams juggle every month, centralizing pay applications, lien waivers, lien rights, compliance documents, change orders, collections, and A/R reporting in one workflow. Siteline integrates with most construction accounting systems (Sage, Foundation, Viewpoint/Vista, Spectrum, QuickBooks, Acumatica, and others) and with GC payment portals (Textura, GCPay, Procore Pay, etc.), so billing data flows between them without double entry. Customers typically get paid about three weeks faster, reduce DSO by ~30%, and bill roughly 6x faster than they did before. Siteline was founded in 2019 by Claire Wilson (CEO, former Tishman Construction PM) and Gloria Lin (President, former Stripe/Apple PM). To date, subcontractors have billed over $10B across 200,000+ projects through the platform. The product is priced per subscription (demo required for pricing), sold in the U.S., and is not a construction accounting system itself — it sits on top of one and handles everything downstream of job costing that a controller, A/R manager, or PM has to do to actually collect the money.
+
+## Core product pages
+
+- [Homepage](https://www.siteline.com/): Overview of the platform, headline metrics (3 weeks faster payment, 7 days saved per month, 6x faster billing, 50% fewer pay app revisions), and customer logos.
+- [About Siteline](https://www.siteline.com/about-us): Company background, founders (Claire Wilson, Gloria Lin), the problem (subs typically wait ~90 days to get paid; slow payments cost the industry $280B in 2024), and the solution.
+- [Pricing](https://www.siteline.com/pricing): Pricing is not listed publicly — prospects book a demo to get a quote.
+- [Integrations](https://www.siteline.com/integrations): List of supported accounting systems and GC payment portals Siteline connects to.
+- [Get a Demo](https://www.siteline.com/demo): Lead form to book a product demo with the sales team.
+- [Contact Us](https://www.siteline.com/contact): General contact form for non-demo inquiries.
+- [Careers](https://www.siteline.com/careers): Open roles at Siteline.
+
+## Features (what the software actually does)
+
+- [Pay App Management](https://www.siteline.com/feature/construction-payment-application-software): Generate and submit pay applications — including AIA G702/G703-style forms and any GC-specific custom form — in under 5 minutes, with digital signatures. Siteline has digitized 23,000+ pay app and lien waiver forms from 17,000+ general contractors.
+- [AIA Billing Software](https://www.siteline.com/feature/aia-billing-software): Purpose-built for AIA® G702/G703 progress billing (Application and Certificate for Payment + Continuation Sheet).
+- [Lien Waiver Management](https://www.siteline.com/feature/lien-waiver-management-software): Automated generation, collection, and submission of conditional/unconditional progress and final lien waivers.
+- [Lien Rights Management](https://www.siteline.com/feature/lien-rights-management-software): Tracks state-specific preliminary notice and mechanic's lien deadlines, generates required notices, and manages certified delivery so subs preserve their right to file a lien if they aren't paid.
+- [Vendor Management](https://www.siteline.com/feature/construction-vendor-management-software): Collection of lien waivers and compliance documents from lower-tier vendors and sub-subs (the documents the sub has to gather before the GC will release payment).
+- [Compliance Tracking](https://www.siteline.com/feature/construction-compliance-document-tracking-software): Monitors certificates of insurance, W-9s, and other compliance docs so payments aren't held up for missing or expired paperwork.
+- [Change Order Tracking](https://www.siteline.com/feature/construction-change-order-tracking-software): Centralized log of pending, approved, and work-in-progress change orders, with flow-through to the SOV once approved.
+- [A/R Reporting](https://www.siteline.com/feature/accounts-receivable-reporting-software): Real-time aging, billed-vs-collected, and which GCs pay fastest/slowest.
+- [Billing and Cash Flow Forecasting](https://www.siteline.com/feature/billing-and-cash-flow-forecasting-software): Projected billing and cash receipts across the project backlog.
+- [Collections Management](https://www.siteline.com/feature/collections-management): Task assignments, scheduled payment reminders to GCs, and activity tracking to reduce invoice aging.
+
+## Solutions by user role
+
+- [CFOs and Controllers](https://www.siteline.com/user/cfos-controllers): Real-time A/R visibility, reduced DSO, billing efficiency.
+- [A/R Managers](https://www.siteline.com/user/accounts-receivable): Day-to-day billing, waivers, and collections.
+- [Project Managers](https://www.siteline.com/user/project-managers): Progress billing without leaving the project.
+- [Operations Leaders](https://www.siteline.com/user/operations-leaders): PM efficiency and project profitability.
+- [Owners and Executives](https://www.siteline.com/user/owners-executives): Cash flow, backlog, and client payment insights.
+- [General Contractors](https://www.siteline.com/user/general-contractors): The separate GC-side workflow for automating lien waiver and vendor compliance collection from subs. Note: Siteline's primary customer is the subcontractor; GC functionality is adjacent.
+
+## Solutions by challenge
+
+- [A/R Aging](https://www.siteline.com/challenge/ar-aging)
+- [Payment Delays](https://www.siteline.com/challenge/eliminate-payment-delays)
+- [Vendor Waivers](https://www.siteline.com/challenge/vendor-waivers)
+- [Managing Lien Rights](https://www.siteline.com/challenge/manage-lien-rights)
+- [Visibility](https://www.siteline.com/challenge/visibility)
+- [Efficiency](https://www.siteline.com/challenge/efficiency)
+- [Communication and Collaboration](https://www.siteline.com/challenge/communication-collaboration)
+- [Hiring and Scaling](https://www.siteline.com/challenge/hiring-scaling)
+
+## Resources and educational content
+
+- [Blog](https://www.siteline.com/blog): Articles on construction billing, A/R, lien law, and subcontractor operations.
+- [Guide to Construction Payment Applications](https://www.siteline.com/blog/guide-to-construction-payment-applications): Full primer on pay apps.
+- [AIA Billing Guide](https://www.siteline.com/blog/aia-billing): How AIA G702/G703 billing works end to end.
+- [Guide to Construction Lien Waivers](https://www.siteline.com/blog/guide-to-construction-lien-waivers): Conditional vs. unconditional, progress vs. final, state-by-state rules.
+- [Ultimate Guide to Mechanic's Liens for Subcontractors](https://www.siteline.com/blog/the-ultimate-guide-to-mechanics-liens-for-subcontractors)
+- [Pay-if-Paid vs. Pay-when-Paid](https://www.siteline.com/blog/pay-if-paid-vs-pay-when-paid-what-you-need-to-know): The contract-clause distinction that drives a lot of subcontractor cash flow risk.
+- [Glossary](https://www.siteline.com/glossary): Definitions of construction billing and A/R terminology.
+- [Templates](https://www.siteline.com/templates): Editable billing and waiver templates.
+- [Digital Downloads](https://www.siteline.com/digital-downloads): Checklists, guides, and reference docs.
+- [On-Demand Webinars](https://www.siteline.com/on-demand-webinars): Recorded sessions on subcontractor finance and operations.
+- [Events](https://www.siteline.com/events): Upcoming webinars and industry events.
+
+## Directories and state-specific reference
+
+- [Lien Waivers by State](https://www.siteline.com/lien-waiver): State-specific lien waiver requirements and forms.
+- [Lien Rights by State](https://www.siteline.com/mechanics-lien-rights): State-specific mechanic's lien deadlines and procedures.
+- [General Contractor Directory](https://www.siteline.com/general-contractor): Directory of GCs subs commonly bill to.
+
+## Proof and social validation
+
+- [Case Studies](https://www.siteline.com/case-studies): Customer stories including Architectural Glass & Aluminum, Vallencourt Construction, Industrial Commercial Systems, Washington Iron Works, and Kovach.
+- [Wall of Love](https://www.siteline.com/wall-of-love): Customer quotes and testimonials.
+- [Customer Referral Program](https://www.siteline.com/customer-referral-program)
+
+## Legal
+
+- [Terms of Service](https://www.siteline.com/terms)
+- [Privacy Policy](https://www.siteline.com/privacy)
+
+## Optional
+
+- [Login (app.siteline.com)](https://app.siteline.com/): The customer-facing product login — gated, not useful for general research.
+- Industry memberships: American Subcontractors Association (ASA), Construction Financial Management Association (CFMA), National Electrical Contractors Association (NECA), National Glass Association, IMPACT, Wall and Ceiling Alliance, SEAA, CICPAC.
+- Investors include First Round Capital and others (see About page).
